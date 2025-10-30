@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Teste_mocker
+
+Escrever o código no terminal dentro da pasta raiz do projeto:
+
+php artisan test --filter=UserServiceTest
+
+E será exibido o resultado do teste de duas funções:
+
+1. test_deve_retornar_mensagem_quando_usuario_nao_existir()
+2. test_deve_retornar_nome_do_usuario()
+
+Valeu professor!
+>>>>>>> 1941216f7e656163511b92f86896e27ab012a72d
